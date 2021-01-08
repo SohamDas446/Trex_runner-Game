@@ -71,7 +71,7 @@ function setup() {
 
   
   trex.setCollider("circle",0,0,40);
-  trex.debug = true;
+  trex.debug = false;
   
   score = 0;
   
